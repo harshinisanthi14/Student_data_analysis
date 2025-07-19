@@ -1,5 +1,6 @@
 # Student_data_analysis
-Introduction
+#Introduction
+
 This project analyzes the academic performance of students based on their scores in Math, Science, English, and Attendance using Python and Object-Oriented Programming (OOP). It calculates total marks, averages, assigns grades, and identifies top performers.
 
 The project also includes visualizations to understand score distributions, subject correlations, and the impact of attendance on performance.
